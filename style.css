@@ -308,3 +308,13 @@ html {
     color: #ffc506;
     transition: all 200ms ease-in;
 }
+
+footer {
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
